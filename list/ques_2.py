@@ -1,4 +1,5 @@
 #Write a Python program to change the position of every n-th value with the (n+1)th in a list
+#list
 
 l=list(input("enter the list elements").split(" "))
 length=len(l)
